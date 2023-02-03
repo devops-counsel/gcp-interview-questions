@@ -6,9 +6,9 @@
 	> None of it
 
 ## There is a requirement to do a DML experiment on a table, which modify a large number of rows, but analysts are not sure about the results. What options will you suggest to test this experiment without corrupting the data (Choose all correct answers).
-  > Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
-  > Use "copy table" operation to create a replica table and run DML statements on it.
-  > Take a clone of that table and run DML statements on it.
+  >Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
+  >Use "copy table" operation to create a replica table and run DML statements on it.
+  >Take a clone of that table and run DML statements on it.
   
   all are correct
 
