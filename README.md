@@ -7,11 +7,11 @@
 
 ## There is a requirement to do a DML experiment on a table, which modify a large number of rows, but analysts are not sure about the results. What options will you suggest to test this experiment without corrupting the data (Choose all correct answers).
 
-  >Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
-  >Use "copy table" operation to create a replica table and run DML statements on it.
-  >Take a clone of that table and run DML statements on it.
+	> Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
+	> Use "copy table" operation to create a replica table and run DML statements on it.
+	> Take a clone of that table and run DML statements on it.
   
-  all are correct
+  	all are correct
 
 ## How many days, BigQuery retains historical table data by default?
 	> 7 days    -- correct
@@ -49,11 +49,11 @@
 
 ## Which GCP Compute VM instance type is more expensive?
 	Preemptible VM instance
-	Sole-tenanct VM instance
+	Sole-tenanct VM instance -- correct
 	Multi-tenant VM instance
 
 ## Is it possible to create subnets in different regions in single GCP VPC?
-	TRUE
+	true
 
 ## Is it possible to deploy a dataflow pipeline inside a VPC?
 	true
