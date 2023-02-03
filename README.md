@@ -45,7 +45,7 @@
 ## A GCP folder can contain:
 	Only Projects
 	Only Folders
-	Projects and Folders
+	Projects and Folders -- correct
 
 ## Which GCP Compute VM instance type is more expensive?
 	Preemptible VM instance
