@@ -6,27 +6,27 @@
 	> None of it
 
 ## There is a requirement to do a DML experiment on a table, which modify a large number of rows, but analysts are not sure about the results. What options will you suggest to test this experiment without corrupting the data (Choose all correct answers).
-  Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
-	Use "copy table" operation to create a replica table and run DML statements on it.
-	Take a clone of that table and run DML statements on it.
+  > Take a snapshot of the that table and create a new table from the snapshot and run DML statements on it.
+  > Use "copy table" operation to create a replica table and run DML statements on it.
+  > Take a clone of that table and run DML statements on it.
   
   all are correct
 
 ## How many days, BigQuery retains historical table data by default?
-	7 days    -- correct
-	14 days
-	21 days
-	28 days
+	> 7 days    -- correct
+	> 14 days
+	> 21 days
+	> 28 days
 
 
 ## Is it possible to implement an object life cycle rule only on a folder inside a gcs bucket?
-	false
+	> false
 
 ## You can stop publicly sharing an object in cloud storage bucket by implementing which below actions?(Choose all correct answers)
-	By removing project owners from Access Policy
-	By removing project viewers from Access Policy
-	By moving the object to archive storage
-	By removing allUsers identifier from Access Policy  -- correct
+	> By removing project owners from Access Policy
+	> By removing project viewers from Access Policy
+	> By moving the object to archive storage
+	> By removing allUsers identifier from Access Policy  -- correct
 
 
 ## Cloud Storage offers which storage classes(Choose all correct answers):
